@@ -1,7 +1,12 @@
 # my_lottery_winrate
-counting overall balance 
-update probably monday and thursday
+> counting overall balance.  
+> update probably monday and thursday.  
 
 
 ## may 12th:
-+300
+spent: 500  
+win: 800  
+gain: +300
+> will only update gain after
+
+ 
