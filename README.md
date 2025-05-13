@@ -9,4 +9,5 @@ win: 800
 gain: +300
 > will only update gain after
 
- 
+## may 13th:
+gain: 0
