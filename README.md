@@ -14,3 +14,6 @@ gain: 0
 
 ## may 16th:
 gain: -100
+
+## may 23rd:
+gain: -400
