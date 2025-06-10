@@ -17,3 +17,6 @@ gain: -100
 
 ## may 23rd:
 gain: -400
+
+## june 10th:
+gain: -700
