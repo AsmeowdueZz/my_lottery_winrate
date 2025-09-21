@@ -20,3 +20,6 @@ gain: -400
 
 ## june 10th:
 gain: -700
+
+## sept 22nd:
+gain: -900
