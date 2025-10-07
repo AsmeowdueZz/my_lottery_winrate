@@ -23,3 +23,9 @@ gain: -700
 
 ## sept 22nd:
 gain: -900
+
+## sept 26th:
+gain: -1000
+
+## oct 7th:
+gaim: -1300
